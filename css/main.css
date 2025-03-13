@@ -383,7 +383,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 body {
-    background-color: hsl(var(--background));
+    background-color: hsl(0deg 3.01% 79.22%);
     color: hsl(var(--foreground))
 }
 
@@ -1263,7 +1263,7 @@ body {
 }
 
 .from-aquamarine-100 {
-    --tw-gradient-from: #c5fff4 var(--tw-gradient-from-position);
+    --tw-gradient-from: #210000 var(--tw-gradient-from-position);
     --tw-gradient-to: rgba(197,255,244,0) var(--tw-gradient-to-position);
     --tw-gradient-stops: var(--tw-gradient-from),var(--tw-gradient-to)
 }
