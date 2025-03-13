@@ -1854,14 +1854,6 @@ body {
     --dark-gradient:repeating-linear-gradient(100deg,var(--black) 0%,var(--black) 7%,var(--transparent) 10%,var(--transparent) 12%,var(--black) 16%)
 }
 
-.\[--duration\: 40s\] {
-    --duration:40s
-}
-
-.\[--gap\: 1rem\] {
-    --gap:1rem
-}
-
 .\[--white-gradient\: repeating-linear-gradient\(100deg\2c var\(--white\)_0\%\2c var\(--white\)_7\%\2c var\(--transparent\)_10\%\2c var\(--transparent\)_12\%\2c var\(--white\)_16\%\)\] {
     --white-gradient:repeating-linear-gradient(100deg,var(--white) 0%,var(--white) 7%,var(--transparent) 10%,var(--transparent) 12%,var(--white) 16%)
 }
